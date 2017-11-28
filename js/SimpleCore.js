@@ -1,5 +1,5 @@
 /**
- * Created by tangkunyin on 2017/1/25.
+ * 
  */
 var SimpleCore = {
     buildingTime: new Date(),
